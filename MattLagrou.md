@@ -2,8 +2,7 @@
 Saginaw, MI | mlagrou@gmail.com | +1 (989) 475-1020
 
 ## Objective
-Motivated computer science student seeking internship opportunities in software development, seeking to leverage strong problem-solving skills and technical aptitude in a dynamic tech environment.
-
+Motivated computer science student seeking internship opportunities in software development. Eager to leverage strong problem-solving abilities and technical skills in a dynamic tech environment. A clear communicator and excellent technical writer, seeking to apply these strengths in a tech-driven role.
 ## Education
 **Saginaw Valley State University**
 Bachelor of Science in Computer Science
