@@ -1,5 +1,5 @@
 # Matt Lagrou
-Saginaw, MI | mlagrou@gmail.com | +1 (989) 475-1020
+Saginaw, MI . mlagrou@gmail.com
 
 ## Objective
 Motivated computer science student seeking internship opportunities in software development. Eager to leverage strong problem-solving abilities and technical skills in a dynamic tech environment. A clear communicator and excellent technical writer, seeking to apply these strengths in a tech-driven role.
